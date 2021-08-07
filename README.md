@@ -1,2 +1,3 @@
 # n-stop_designer
-generative music with Web Audio API
+
+https://pparocza.github.io/n-stop_designer/
